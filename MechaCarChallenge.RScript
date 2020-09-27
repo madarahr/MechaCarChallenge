@@ -1,4 +1,0 @@
-#Using multiple linear regression, design a linear model that predicts the mpg of MechaCar prototypes using a number of #variables within the MechaCar mpg dataset. Create a separate text file called MechaCarWriteUp.txt. In the text file, #provide a small writeup of your interpretation of the multiple linear regression results. Be sure to include the #following details:
-#Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-#Is the slope of the linear model considered to be zero? Why or why not?
-#Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
