@@ -26,7 +26,6 @@ From the slope of the model, Ground Clearance does impact mpg however its p-valu
 
 
 The second dataset is of manufacturing information of vehicle suspension coils from three lots.  The statistical summary is below:
-!.[]table
 
 
 A t-test has been performed on the lots which indicate that the mean psi of the lots is 1500 psi however, LOT3 has a variance of over 100 psi on its suspension coils.
